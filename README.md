@@ -1,5 +1,5 @@
 This package is a MATLAB implementation of ["Handling Multi-Class Problem by Intuitionistic Fuzzy Twin Support Vector Machines Based on
-Relative Density Information", Salim Rezvani and Junhao Wu]. You can train the M-IFTSVM-RD model on your dataset for multi-classification problems.
+Relative Density Information"]. You can train the M-IFTSVM-RD model on your dataset for multi-classification problems.
 
 The M-IFTSVM-RD approximates the probability density distribution in multi-dimensional continuous space by computing the K-nearest-neighbor distance of each training sample.
 
