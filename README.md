@@ -20,3 +20,8 @@ ATTN1: These packages are free for academic usage. You can run them at your own 
 purposes.
 
 
+
+
+[1] B. Gao, J. Wang, Y. Wang, and C. Yang, “Coordinate descent fuzzy twin support vector machine for classification,” in Proc. IEEE 14th Int. Conf. Mach. Learn. Appl., Dec. 2015, pp. 7–12.
+
+
