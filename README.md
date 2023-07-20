@@ -14,7 +14,7 @@ In matlab, run M-IFTSVM-RD.m.
 
 You need to optimize the parameter first, then run the code for the optimized parameter. Also, for different datasets, you need to change the number of classes.
 
-For the final result should consider MaxAcc.
+For the final result, you should consider MaxAcc.
 
 ATTN1: These packages are free for academic usage. You can run them at your own risk. For other
 purposes.
