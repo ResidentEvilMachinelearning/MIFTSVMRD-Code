@@ -12,7 +12,7 @@ In matlab, run M-IFTSVM-RD.m.
 # Additional Information
 
 
-You need to optimize the parameter first, then run the code for the optimized parameter. Also, for different datasets, you need to change the number of classes.
+You need to optimize the parameter first, then run the code for the optimized parameter. 
 
 For the final result, you should consider MaxAcc.
 
