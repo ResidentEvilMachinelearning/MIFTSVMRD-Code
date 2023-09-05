@@ -20,6 +20,7 @@ ATTN1: These packages are free for academic usage. You can run them at your own 
 purposes.
 
 This code belongs to the following paper. Please cite it if you want to use it:
+
 S. Rezvani and J. Wu, "Handling Multi-Class Problem by Intuitionistic Fuzzy Twin Support Vector Machines Based on Relative Density Information," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2023.3310908.
 
 
