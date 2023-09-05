@@ -19,7 +19,8 @@ For the final result, you should consider MaxAcc.
 ATTN1: These packages are free for academic usage. You can run them at your own risk. For other
 purposes.
 
-
+This code belongs to the following paper. Please cite it if you want to use it:
+S. Rezvani and J. Wu, "Handling Multi-Class Problem by Intuitionistic Fuzzy Twin Support Vector Machines Based on Relative Density Information," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2023.3310908.
 
 
 [1] B. Gao, J. Wang, Y. Wang, and C. Yang, “Coordinate descent fuzzy twin support vector machine for classification,” in Proc. IEEE 14th Int. Conf. Mach. Learn. Appl., Dec. 2015, pp. 7–12.
